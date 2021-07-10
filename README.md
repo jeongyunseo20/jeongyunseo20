@@ -1,8 +1,8 @@
 - 👋 Hi, I’m JeongYun Seo.
 - 👀 I’m interested in Data Analytics!
 - 🌱 I’m currently learning Google Analytics and Python, R language.
-- 💞️ I’m between jobs at the moment.
-- 📫 How to reach me is via email or phone. If there is any available position in your company now, please let me know.
+- 💞️ I’m between jobs at the moment. So, If there is any available position in your company now, Please let me know.
+- 📫 How to reach me is via email or phone.
 Thank You!
 
 <!---
